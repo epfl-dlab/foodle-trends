@@ -1,0 +1,474 @@
+,mid,name_x,class
+0,/m/0bp_wy,Oil,
+1,/m/0f25w9,Chicken meat,chicken dish
+2,/m/0663v,Pizza,pasta dish
+3,/m/02vqfm,Coffee,
+4,/m/03vtj,Ice,
+5,/m/01nkt,Cheese (Ingredient),cheese
+6,/m/033cnk,Egg,egg dish
+7,/m/081qc,Wine (Ingredient),
+8,/m/09728,Bread (Literature Subject),flatbread
+9,/m/01z1m1x,Soup,soup
+10,/m/0grw1,Salad,salad
+11,/m/012mj,Alcoholic beverage (Industry),
+12,/m/0grqz,Sauces,sauce
+13,/m/01599,Beer (Beverage type),
+14,/m/021mn,Cookie,dessert
+15,/m/04zpv,Milk,
+16,/m/07clx,Tea (Beverage type),
+17,/m/06x4c,Sugar,
+18,/m/0cxn2,Ice cream,dessert
+19,/m/04scj,Meat (Ingredient),
+20,/m/0cdn1,Hamburger,beef dish
+21,/m/0grtl,Steak,beef dish
+22,/m/0chyh,Butter,
+23,/m/07j87,Tomato,vegetable
+24,/m/07crc,Taco,
+25,/m/0dxrf,Frying,
+26,/m/09759,Rice,rice dish
+27,/m/0f4s2w,Vegetable (Ingredient),vegetable
+28,/m/014j1m,Apple,fruit
+29,/m/09dh0,Seed,
+30,/m/09qck,Banana,fruit
+31,/m/0971v,Beef,beef dish
+32,/m/01tv9,Cream,
+33,/m/05z55,Pasta,pasta
+34,/m/09k_b,Lemon,fruit
+35,/m/01z1kdw,Juice,soft drink
+36,/m/07030,Sushi,rice dish
+37,/m/0l515,Sandwich,sandwich
+38,/m/03fw2,Gluten,
+39,/m/07fbm7,Strawberry,fruit
+40,/m/0mjqn,Pie,pie
+41,/m/05g0_z,Table salt,spice
+42,/m/0djtd,Coconut,
+43,/m/03qmh,Honey,dessert
+44,/m/0gl3jh5,Turkey meat,
+45,/m/06nwz,Seafood,
+46,/m/01fp9,Bean,
+47,/m/0dbrl,Garlic,
+48,/m/0fg0m,Peanut,snack
+49,/m/052sf,Mushroom,
+50,/m/06p35,Spice (Literature Subject),spice
+51,/m/0q593,Dietary supplement,
+52,/m/05zsy,Pumpkin,
+53,/m/0h0xm,Bacon,pork dish
+54,/m/0n28_,Crab,
+55,/m/0fkw3,Flour,
+56,/m/0dj75,Onion,
+57,/m/088lm,Yeast,
+58,/m/09777,Salmon,fish dish
+59,/m/0kdzn,Sausage,sausage
+60,/m/0m4v,Almond,
+61,/m/0cyhj_,Orange,fruit
+62,/m/0fp6w,Pineapple,fruit
+63,/m/01qfcj,Peanut butter,
+64,/m/014l8n,Yogurt,
+65,/m/01645p,Avocado,fruit
+66,/m/058hry,Smoothie,
+67,/m/0k5sv46,Chicken breast,chicken dish
+68,/m/0f8sw,Cherry,fruit
+69,/m/02y6n,French fries,potato dish
+70,/m/024g6,Cocktail,cocktail
+71,/m/01yvs,Coca-Cola,soft drink
+72,/m/0ftbs,Blueberry,fruit
+73,/m/080vl,Vinegar,
+74,/m/05hc9_,Pork chop,pork dish
+75,/m/01k17j,Milkshake,dessert
+76,/m/09gms,Ramen,soup
+77,/m/0dj6p,Peach,fruit
+78,/m/015w7p,Cauliflower,vegetable
+79,/m/03gq1,Herb (Ingredient),herb
+80,/m/0cj45,Tuna,fish dish
+81,/m/01bf_1,Oatmeal,
+82,/m/01b9xk,Hot dog,pork dish
+83,/m/027pcv,Zucchini,vegetable
+84,/m/05mln,Olive,
+85,/m/0kpqd,Watermelon,fruit
+86,/m/02qm2x,Icing,dessert
+87,/m/015x4r,Cucumber,vegetable
+88,/m/02mg4z,Cheesecake,cake
+89,/m/0f9n3,Ginger,spice
+90,/m/016rh7,Spinach,vegetable
+91,/m/01bzmc,Meatball,beef dish
+92,/m/0388q,Grape,fruit
+93,/m/09x374,Boiled egg,egg dish
+94,/m/0cjq5,Lobster,
+95,/m/0cl2v,Oat,
+96,/m/02rkhg,Beef mince,beef dish
+97,/m/01dwsz,Waffle,dessert
+98,/m/07bgp,Sheep,
+99,/m/06qrr,Soft drink,soft drink
+100,/m/014dn0,Sodium bicarbonate,
+101,/m/02hlnc,Chocolate brownie,dessert
+102,/m/02p2nn,Cream cheese,
+103,/m/0fldg,Mango,fruit
+104,/m/0fjfh,Capsicum,vegetable
+105,/m/09696,Wheat,
+106,/m/01b7zv,Pudding,pudding
+107,/m/0c59y,Bourbon whiskey,liquor
+108,/m/01fb_0,Bagel,flatbread
+109,/m/04cym9,Banana bread,dessert
+110,/m/01x9mn,Dough,
+111,/m/020j3z,Meatloaf,beef dish
+112,/m/0l6sg,Breakfast cereal,
+113,/m/0cjs7,Asparagus (Ingredient),vegetable
+114,/m/0h55s,Caramel,dessert
+115,/m/01c6xf,Drinking water,
+116,/m/0jnxw,Stew,stew
+117,/m/07cnc,Turmeric,spice
+118,/m/0fbw6,Cabbage,vegetable
+119,/m/01j3zr,Burrito,
+120,/m/0g5s7,Pea,
+121,/m/0dxb5,Berry,fruit
+122,/m/0gyv9,Soybean,
+123,/m/027zm8,Lemonade,soft drink
+124,/m/04gth,Lavender,herb
+125,/m/02y17j,Pho,soup
+126,/m/0dwn8,Pickled cucumber,vegetable
+127,/m/02h_mt,Broth,soup
+128,/m/020dp,Cranberry,fruit
+129,/m/0f2b9,Champagne,
+130,/m/0cdk2,Eggplant,vegetable
+131,/m/07_lq,Vegetarian food,
+132,/m/02fvjy,Mashed potato,potato dish
+133,/m/01q971,Brisket,beef dish
+134,/m/01hcps,Lamb and mutton,lamb dish
+135,/m/026ym7,Salsa sauce,sauce
+136,/m/01pd2g,Raspberry,fruit
+137,/m/01jszz,Coconut oil,
+138,/m/0ctfk,Espresso,
+139,/m/05ml4,Olive oil,
+140,/m/039blp,Baked potato,potato dish
+141,/m/02cv5l,Dumpling,
+142,/m/0250zy,Brussels sprout,vegetable
+143,/m/0grq0,Mayonnaise,sauce
+144,/m/0dc3k,Enchilada,
+145,/m/07l8p5,Side dish,
+146,/m/01mzvs,Green tea,
+147,/m/0fqlj,Lettuce,salad
+148,/m/072qlz,Bistro,
+149,/m/01nr56,Latte,
+150,/m/0_cp5,Oyster,
+151,/m/07s28,Tofu,
+152,/m/0f07x,Quinoa,
+153,/m/026yj4,Ranch dressing,sauce
+154,/m/0dxr0,Stir frying,
+155,/m/0fqtq,Chickpea,
+156,/m/01bjxj,Edible mushroom,
+157,/m/015_77,Walnut,
+158,/m/0g1fdw,Pork loin,pork dish
+159,/m/01btbt,Pecan,
+160,/m/061_f,Pear,fruit
+161,/m/01jxcj,Carbonated water,
+162,/m/01f91_,Pretzel,flatbread
+163,/m/017kh0,Lentil,
+164,/m/01sbt1,Parmigiano-Reggiano,cheese
+165,/m/02wsb20,Red Wine (Ingredient),
+166,/m/0ffhy,Clam,
+167,/m/0by1g,Crayfish,fish dish
+168,/m/01j7_f,Buttermilk,dessert
+169,/m/0lgk9,Marshmallow,dessert
+170,/m/03hfsvf,Baker's yeast,pastry
+171,/m/0139zp,Black pepper,spice
+172,/m/05py0,Octopus,
+173,/m/0cqrj,Catfish,fish dish
+174,/m/01y4xf,Coriander,herb
+175,/m/05m1lt,Pizza delivery,pasta dish
+176,/m/03bx3wh,Corn on the cob,
+177,/m/07_0xk,Mustard (Ingredient),sauce
+178,/m/0261rtj,Pork tenderloin,pork dish
+179,/m/0477n,Jell-O,dessert
+180,/m/01q6dt,Pesto,sauce
+181,/m/01yjq3,Nachos,snack
+182,/m/05rr0j,Chocolate chip,dessert
+183,/m/0jfrt,Corned beef,beef dish
+184,/m/017mln,Cracker (Ingredient),snack
+185,/m/04jw1r,Hot sauce,sauce
+186,/m/0ftb8,Sunflower,
+187,/m/01x5j8,Crêpe,
+188,/m/01z8txb,Kosher food,
+189,/m/043nyj,Common Fig,spice
+190,/m/02kr76,Brown sugar,
+191,/m/04pgq7,Bread crumbs,
+192,/m/01qq3s,Fajita,
+193,/m/01hn_d,Sour cream,
+194,/m/0hnyx,Pastry,pastry
+195,/m/02r3r5q,Boston butt,pork dish
+196,/m/02wsb25,White Wine (Ingredient),
+197,/m/02xwb,Fruit (Ingredient),fruit
+198,/m/047v4b,Artichoke,vegetable
+199,/m/05s38,Peppermint,herb
+200,/m/0bdcn,Cod,fish dish
+201,/m/01f79n,Quiche,egg dish
+202,/m/0jzps,Hummus,snack
+203,/m/02g30s,Guacamole,snack
+204,/m/0gvg1g,Ice pop,dessert
+205,/m/02f217,Chipotle,
+206,/m/07ll5f,Butternut squash,vegetable
+207,/m/09cpv,Cabernet Sauvignon,
+208,/m/05853c,Rib eye steak,beef dish
+209,/m/022n8y,Kebab,lamb dish
+210,/m/01c2vn,Elderberry,fruit
+211,/m/06cd7,Rosemary,herb
+212,/m/014_z9,Apple pie,pie
+213,/m/0hqkz,Grapefruit,fruit
+214,/m/0308gy,Stock (Ingredient),soup
+215,/m/0h6_1,Tamale (Mexican Dish),
+216,/m/0gl8r,Red Bull,
+217,/m/0ksgj,Sodium chloride,
+218,/m/013q4y,Cheeseburger,beef dish
+219,/m/0m775,Tilapia (Ingredient),
+220,/m/037ls6,Coconut milk,
+221,/m/01y28g,Gyro,pork dish
+222,/m/0syzv,Raisin,fruit
+223,/m/09psh,Flax,
+224,/m/02dmz4,Egg yolk,
+225,/m/01wmzc,Girl Scout Cookies,dessert
+226,/m/01zvtl,Egg white,dessert
+227,/m/028lgz,Brown rice,
+228,/m/01yyk,Cereal,
+229,/m/016bn0,Omelette,egg dish
+230,/m/09gys,Squid,
+231,/m/0dwgb,Orange juice,soft drink
+232,/m/0h259,Cashew,
+233,/m/0b6w2z,Buttercream,dessert
+234,/m/02dszx,Corn starch,
+235,/m/02z9dy,Granola,
+236,/m/0jwn_,Pomegranate,fruit
+237,/m/01jp3,Budweiser,
+238,/m/023mq,Cider,
+239,/m/03bmz,Grits,
+240,/m/0l4_r,Sesame,
+241,/m/02qctq,Pitaya,fruit
+242,/m/0ht80,Ketchup,sauce
+243,/m/0m09,Ale,
+244,/m/02vkxl4,Ground meat,
+245,/m/02g3bz,Quesadilla,
+246,/m/055w7,Mozzarella,cheese
+247,/m/03gqg_,Balsamic vinegar,sauce
+248,/m/0p83l,Jasmine,
+249,/m/020b3f,Frozen yogurt,dessert
+250,/m/0fy8cb,Short ribs,pork dish
+251,/m/034n3h,Ricotta,cheese
+252,/m/0b3lj,Pistachio,
+253,/m/027_l3,Common sage,herb
+254,/m/015fyw,Poppy (Fictional Object),
+255,/m/08zw6l,Almond meal,
+256,/m/074y7,Scotch whisky,liquor
+257,/m/0g4fr,Papaya,fruit
+258,/m/03wg0nc,Korean barbecue,beef dish
+259,/m/0m0gc,Date palm,fruit
+260,/m/04fyb1,Sirloin steak,beef dish
+261,/m/0c2pc,Clover,
+262,/m/071tf,Sake,liquor
+263,/m/025s18p,Okra,
+264,/m/01c2z6,Pinot Noir,
+265,/m/0cl46,Turnip,vegetable
+266,/m/0b8r64,Gratin,potato dish
+267,/m/01bfr_,Baking powder,pastry
+268,/m/01qnpw,Truffle,
+269,/m/0j969,Brine,
+270,/m/01n3nh,Sangria,
+271,/m/02vxqxj,Cocoa solids,
+272,/m/04fp11,Deviled egg,egg dish
+273,/m/04jm3v,Egg roll,egg dish
+274,/m/02q8hw1,Stuffed peppers,
+275,/m/03fz3,Gelatin,
+276,/m/02n44t,Apple cider,
+277,/m/03q6mh,Beef Stroganoff,beef dish
+278,/m/02dmw4,Scrambled eggs,egg dish
+279,/m/02fz11,Gelato,dessert
+280,/m/018dz_,Kimchi,
+281,/m/03jmrd,Beef tenderloin,beef dish
+282,/m/038sf,Greek food,
+283,/m/02s3cz,Scampi,
+284,/m/0gxwm0,Peanut butter cookie,dessert
+285,/m/04f8p,Kiwifruit,fruit
+286,/m/02v46d,Asado,beef dish
+287,/m/0fbdb,Strawberries,fruit
+288,/m/015w3y,Falafel,
+289,/m/0fr19,Dandelion,
+290,/m/0fl3p,Rhubarb,vegetable
+291,/m/01dk8s,Powdered sugar,dessert
+292,/m/02vdjb,White rice,rice dish
+293,/m/0ckq2,Apple sauce,dessert
+294,/m/04_vv,Maple syrup,dessert
+295,/m/0m1h5,Corn tortilla,
+296,/m/03w9fb9,Crab meat,
+297,/m/01cs49,Cottage pie,pie
+298,/m/018dy5,Pepperoni,vegetable
+299,/m/03qzdm,Iced tea,soft drink
+300,/m/01xg7s,Chorizo,sausage
+301,/m/012y0l,Mochi,dessert
+302,/m/0gtcd,Custard,dessert
+303,/m/05gbwj,Carne asada,beef dish
+304,/m/0c93f,Brandy,liquor
+305,/m/09qdd,Cooking plantain,fruit
+306,/m/0j8k6,Ceviche,
+307,/m/081blf,Bisquick,dessert
+308,/m/0d7gy,Eucalyptus,herb
+309,/m/02qmkz,Whopper,beef dish
+310,/m/09gtx,Barley,
+311,/m/05kw_,Oregano,spice
+312,/m/01fd1t,Cottage cheese,cheese
+313,/m/01pk_6,Feta,cheese
+314,/m/01rrrx,Baguette,flatbread
+315,/m/0cqr1,Eel,fish dish
+316,/m/070rx,Spam,beef dish
+317,/m/0kpt_,Cantaloupe,fruit
+318,/m/03qjz,Hops,
+319,/m/02jq33,Cotton candy,dessert
+320,/m/057n6,Malt,
+321,/m/01xcwm,Jackfruit,fruit
+322,/m/09cgp,Chardonnay,
+323,/m/01_3j6,Pumpkin pie,pie
+324,/m/03qj953,Cream of mushroom soup,soup
+325,/m/057z_,Miso,soup
+326,/m/0209ts,Sorbet,dessert
+327,/m/0cjj49,Round steak,beef dish
+328,/m/0f5f8,Cocoa bean,
+329,/m/0fnfy,Apricot,fruit
+330,/m/052b2y,Key lime,fruit
+331,/m/024247,Bottled water (Literature Subject),
+332,/m/04dnrj,Filet mignon,pork dish
+333,/m/01l566,Kool-Aid,soft drink
+334,/m/019xdq,Sourdough,flatbread
+335,/m/0557gj,Reese's Peanut Butter Cups,dessert
+336,/m/0278rf,Condensed milk,dessert
+337,/m/07xjdg,Crab cake,fish dish
+338,/m/01qf18,Tahini,sauce
+339,/m/01sbwk,Champignon,
+340,/m/0238jq,Pad Thai,
+341,/m/01pmj8,Scone,dessert
+342,/m/01dzzz,Mahi-mahi,fish dish
+343,/m/0k64b,Emu,
+344,/m/018dzj,Sauerkraut,vegetable
+345,/m/015zfk,Food coloring,cake
+346,/m/0410vr2,Taro (Organism Classification),vegetable
+347,/m/016zpp,Guava,fruit
+348,/m/0fw9d,Fig,fruit
+349,/m/0f54r,Stingray,fish dish
+350,/m/01_8f5,Churro,dessert
+351,/m/01tc53,Venison,
+352,/m/06d9tl,Gordita,pastry
+353,/m/0f7gf,Citric acid,
+354,/m/0djhcg,Green bean casserole,
+355,/m/05n4y,Ostrich,
+356,/m/0cl3b,Rye,
+357,/m/0c8jf,Marsala wine,
+358,/m/06wyb6,Pumpkin seed,
+359,/m/05j9r4,Crown Royal,liquor
+360,/m/0127n5,Mussel,
+361,/m/03x2vh,Wagyu,beef dish
+362,/m/0lhmp,Cognac,liquor
+363,/m/094_69,Spanish rice,rice dish
+364,/m/03_mtn,Sacred Lotus,
+365,/m/05d6pq,Strip steak,beef dish
+366,/m/01z6s,Couscous,
+367,/m/01bp4w,Lemongrass,herb
+368,/m/017z4t,Dal,
+369,/m/051vk,Mousse,dessert
+370,/m/09448n,Lo mein,
+371,/m/03fqll,Sprite,soft drink
+372,/m/0cn1d,Puff pastry,pastry
+373,/m/056yz7,Apple crisp,dessert
+374,/m/0fm0p,Cassava,
+375,/m/08twxg,Poblano,vegetable
+376,/m/0413ml2,Marinara sauce,sauce
+377,/m/01b9sh,Vegetable oil,
+378,/m/03q7vc,Acorn,
+379,/m/0mjyx,Cayenne pepper,spice
+380,/m/0g1kn,Molasses,
+381,/m/01v1gw,Half and half,
+382,/m/0gvmv,Prune,fruit
+383,/m/06p4j,Sage,herb
+384,/m/0167sn,Halibut,fish dish
+385,/m/01xbt3,Passion fruit,fruit
+386,/m/01npvx,Chow mein,
+387,/m/09702,Cappuccino,
+388,/m/06h3pn,Fennel Flower,
+389,/m/05bzrs,Coffee bean,
+390,/m/0hsgr,Chestnut,
+391,/m/0d_94,Saffron,spice
+392,/m/03ldyd,Pozole,soup
+393,/m/02tn68,Macaroon,dessert
+394,/m/01g66n,True morels,
+395,/m/07l4g,Tiramisu,dessert
+396,/m/06wcblr,Hazelnut,
+397,/m/068dr1,Barbacoa,
+398,/m/0brjx,Nutella,dessert
+399,/m/0c_f28,Birria,
+400,/m/01bfqw,Cornmeal,
+401,/m/02bjnm,Apple juice,soft drink
+402,/m/01rb6t,Chrysanths,
+403,/m/0c3d9,Irish Moss,
+404,/m/04_1j33,Cranberry juice,soft drink
+405,/m/0879r3,Squid (Italian Dish),fish dish
+406,/m/047mr6,Prosecco,
+407,/m/03_z1w,King crab,
+408,/m/0446b_g,Navy Beans (Biological Subspecies),
+409,/m/0gjnf,Carp,fish dish
+410,/m/06z3v,Stout,
+411,/m/0f2nzn,Guinness,
+412,/m/0dfxf2j,Chuck roast,beef dish
+413,/m/073lwm,Romaine lettuce,salad
+414,/m/03b61y,Game (Cuisine),
+415,/m/01k_rs,T-bone steak,beef dish
+416,/m/06dbhw,Fondant,cake
+417,/m/035f3k,Eggnog,
+418,/m/08chc_,Taquito,
+419,/m/07z2l,Veal,
+420,/m/05c5_4k,Poppy seed,
+421,/m/026nvk,Cooking oil,
+422,/m/06g7kb,Mustard plant,herb
+423,/m/02bbz9,Shawarma,lamb dish
+424,/m/029x39,Ginseng,
+425,/m/01rq37,Big Mac,beef dish
+426,/m/018dz0,Salami,sausage
+427,/m/08nk6x,Garlic bread,flatbread
+428,/m/03qp04,Blue cheese,cheese
+429,/m/01224x,Sparkling wine,
+430,/m/012x5p,Bento,
+431,/m/03gzlp,Rice pudding,pudding
+432,/m/018vnz,Corn flakes,
+433,/m/03m1ls,Cheerios,
+434,/m/034hjy,Fondue,cheese
+435,/m/01qs2,Cumin,spice
+436,/m/01hklv,Smoked salmon,fish dish
+437,/m/02gmz0,Bran,
+438,/m/024rrx,Baileys Irish Cream,liquor
+439,/m/07q3b,Tapas,
+440,/m/0fkjv,Sugarcane,
+441,/m/08rwqz,Oxtail,beef dish
+442,/m/03r1s9,Paneer,cheese
+443,/m/07hr9x,Flatbread,flatbread
+444,/m/0fbdv,Shellfish,
+445,/m/037vsg,Prosciutto,beef dish
+446,/m/02w9q6,Focaccia,flatbread
+447,/m/016g4s,Chocolate milk,
+448,/m/0gdsj,Aioli,sauce
+449,/m/049qbg,Spring roll,
+450,/m/094qrr,Jasmine rice,rice dish
+451,/m/07pb77,Duck meat,
+452,/m/02dmwz,Soufflé,dessert
+453,/m/022dwd,Wine cooler,
+454,/m/04sr0,Merlot,
+455,/m/0hpf8,Tzatziki,
+456,/m/09dw4,Mead,
+457,/m/06sm__,Malibu Rum,liquor
+458,/m/012xzr,Tempura,
+459,/m/03_hl0,Biryani,rice dish
+460,/m/01h5zh,Tamarind,
+461,/m/027gdv,Chicken tikka masala,chicken dish
+462,/m/06hf0n,Filipino food,
+463,/m/01s9wq,Refried beans,
+464,/m/03rbhq,Sundae,dessert
+465,/m/01n2x4,Tuna salad,salad
+466,/m/01j692,Sardine,fish dish
+467,/m/02pxbny,Chicken marsala,chicken dish
+468,/m/0c7d8,Azadirachta indica,
+469,/m/01f3v2,Ghee,
+470,/m/01bg5t,Coneflower,
+471,/m/03cg_q,Calzone,pasta dish
+472,/m/013v4j,Persimmon,fruit
