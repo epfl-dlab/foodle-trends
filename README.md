@@ -46,7 +46,7 @@
                 Code for producing other, supplementary figures and tables is here.
                 Each notebook is titled after the figure or table it produces.
 
-######                ---> foodle-trends/code/analysesupplementary material
+######        ---> foodle-trends/code/analysesupplementary material
                                 Fig_S1.ipynb
                                 Fig_S11a.ipynb
                                 Fig_S11b.ipynb
