@@ -13,7 +13,7 @@
 
         1. Aggregated dataframes:
         'df_agg_cats.pickle' contains Google Trends attention timeseries for foods belonging to different categories.
-        ‘df_agg_modes’ contains Google Trends attention timeseries for foods belonging to different ways of accessing food.
+        ‘df_agg_modes.pickle’ contains Google Trends attention timeseries for foods belonging to different ways of accessing food.
 
 
         2. Raw dataframes:
